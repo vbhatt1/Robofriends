@@ -1,5 +1,4 @@
-#RoboFriends
-
+# RoboFriends
 This is a small website created while focussing on React.js technology.<br>
 The website can be visited [here](https://vbhatt1.github.io/Robofriends/).
 
